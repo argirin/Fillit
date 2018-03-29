@@ -1,2 +1,17 @@
 # Fillit
-Projet école 42, pré-requis
+
+Fillit est un projet vous permettant de decouvrir et/ou de vous familiariser avec
+une problematique récurrente en programmation : la recherche d’une solution optimale
+parmi un très grand nombre de possibilités, dans un délai raisonable. Dans le cas de ce
+projet, il s’agira d’agencer des Tetriminos entre eux et de déterminer le plus petit carré
+possible pouvant les acueillir.
+Un Tetriminos est une figure géométrique formée de 4 blocs que vous connaissez
+grâce au célèbre jeu Tetris.
+
+Sujet complet : https://github.com/argirin/Fillit/blob/master/fillit.fr.pdf
+
+# Usage
+
+Compiler le projet avec la commande "make"
+
+Executer ensuite "./fillit example.fillit | cat -e"
